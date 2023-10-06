@@ -35,7 +35,7 @@
 - 이미지  
   <img src="./img/관련이미지 1.jpg"><br>
 - 동영상
-  [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
+  [![](./img/동영상이미지.jpg)](https://youtu.be/MC2R2yogiAo?t=79)
 
 <br><br>
 

@@ -110,41 +110,43 @@
 ## 4. 기술
 - 유니티 3D를 이용하여 구현할 예정이다.
 
-###게임 오브젝트 분해(구성 요소 분해)
+# [게임 시스템 디자인]
+### 게임 오브젝트 분해
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|플레이어|<img src="./img/축구장.png" width="500">|
-|2|총|<img src="./img/축구장.png" width="500">|
-|3|집게 외계 종족 일반|<img src="./img/축구장.png" width="500">|
-|4|집게 외계 종족 강화|<img src="./img/축구장.png" width="500">|
-|5|외계 돌연변이|<img src="./img/축구장.png" width="500">|
-|6|인간 숙주 돌연변이|<img src="./img/축구장.png" width="500">|
-|7|렙틸리언|<img src="./img/축구장.png" width="500">|
-|8|타이탄알파|<img src="./img/축구장.png" width="500">|
-|9|총알|<img src="./img/축구장.png" width="500">|
-|10|소형 폭탄|<img src="./img/축구장.png" width="500">|
-|11|힐팩|<img src="./img/축구장.png" width="500">|
-|12|모듈식 벽|<img src="./img/축구장.png" width="500">|
-|13|캐릭터|<img src="./img/축구장.png" width="500">|
-|14|캐릭터|<img src="./img/축구장.png" width="500">|
-|15|캐릭터|<img src="./img/축구장.png" width="500">|
-|16|캐릭터|<img src="./img/축구장.png" width="500">|
-|17|캐릭터|<img src="./img/축구장.png" width="500">|
-|18|캐릭터|<img src="./img/축구장.png" width="500">|
-|19|캐릭터|<img src="./img/축구장.png" width="500">|
-|21|캐릭터|<img src="./img/축구장.png" width="500">|
-|22|캐릭터|<img src="./img/축구장.png" width="500">|
-|23|캐릭터|<img src="./img/축구장.png" width="500">|
-|24|캐릭터|<img src="./img/축구장.png" width="500">|
-|25|캐릭터|<img src="./img/축구장.png" width="500">|
-|26|캐릭터|<img src="./img/축구장.png" width="500">|
-|27|캐릭터|<img src="./img/축구장.png" width="500">|
-|28|캐릭터|<img src="./img/축구장.png" width="500">|
-|29|캐릭터|<img src="./img/축구장.png" width="500">|
-|30|캐릭터|<img src="./img/축구장.png" width="500">|
-|31|캐릭터|<img src="./img/축구장.png" width="500">|
-|32|캐릭터|<img src="./img/축구장.png" width="500">|
-|33|캐릭터|<img src="./img/축구장.png" width="500">|
+|1|플레이어|<img src="./img/player.png" width="300">|
+|2|총|<img src="./img/gun.png" width="300">|
+|3|집게 외계 종족 일반|<img src="./img/alien_crab.png" width="300">|
+|4|집게 외계 종족 강화|<img src="./img/crab_mutant.png" width="300">|
+|5|외계 돌연변이|<img src="./img/alien_mutant.png" width="300">|
+|6|인간 숙주 돌연변이|<img src="./img/slider_mutant.png" width="300">|
+|7|렙틸리언|<img src="./img/reptile.png" width="300">|
+|8|타이탄알파|<img src="./img/titan_alpha.png" width="300">|
+|9|총알|<img src="./img/bullet.png" width="300">|
+|10|소형 폭탄|<img src="./img/wall_bomb.png" width="300">|
+|11|힐팩|<img src="./img/heal_pack.png" width="300">|
+|12|배터리|<img src="./img/battery.png" width="300">|
+|13|모듈식 벽|<img src="./img/wall.png" width="300">|
+|14|모듈식 천장 패널|<img src="./img/ceiling panel.png" width="300">|
+|15|모듈식 통로|<img src="./img/walkway.png" width="300">|
+|16|선반|<img src="./img/shelf.png" width="300">|
+|17|sf 상자|<img src="./img/sf_box.png" width="300">|
+|18|sf 팔레트|<img src="./img/sf_pallet.png" width="300">|
+|19|소화기|<img src="./img/fire_exting.png" width="300">|
+|20|벽 파이프|<img src="./img/pipe_wall.png" width="300">|
+|21|sf 문|<img src="./img/sf_door.png" width="300">|
+|22|우주선|<img src="./img/spaceship.png" width="300">|
+|23|탄약 상자|<img src="./img/ammo_box.png" width="300">|
+|24|부서지는 벽|<img src="./img/breaking_wall.png" width="300">|
+|25|잠겨있는 문|<img src="./img/door_locked.png" width="300">|
+|26|비밀번호 숫자 패드|<img src="./img/keypad.png" width="300">|
+|27|랩탑|<img src="./img/laptop.png" width="300">|
+|28|배터리 디스플레이|<img src="./img/tablet_pc.png" width="300">|
+|29|플레이어 체력 UI|<img src="./img/.png" width="300">|
+|30|전체 총알 개수 UI|<img src="./img/축구장.png" width="300">|
+|31|탄창 총알 개수 UI|<img src="./img/축구장.png" width="300">|
+|32|비밀번호 UI|<img src="./img/password_ui.png" width="300">|
+|33|우주선 배터리 잔여략 UI|<img src="./img/battery_check_ui.png" width="300">|
 
 
 

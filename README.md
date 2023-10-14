@@ -142,9 +142,9 @@
 |26|비밀번호 숫자 패드|<img src="./img/keypad.png" width="300">|
 |27|랩탑|<img src="./img/laptop.png" width="300">|
 |28|배터리 디스플레이|<img src="./img/tablet_pc.png" width="300">|
-|29|플레이어 체력 UI|<img src="./img/.png" width="300">|
-|30|전체 총알 개수 UI|<img src="./img/축구장.png" width="300">|
-|31|탄창 총알 개수 UI|<img src="./img/축구장.png" width="300">|
+|29|플레이어 체력 UI|<img src="./img/hp_UI.png" width="300">|
+|30|전체 총알 개수 UI|<img src="./img/bullet_count_UI.png" width="300">|
+|31|탄창 총알 개수 UI|<img src="./img/loaded_bullet_UI.png" width="300">|
 |32|비밀번호 UI|<img src="./img/password_ui.png" width="300">|
 |33|우주선 배터리 잔여략 UI|<img src="./img/battery_check_ui.png" width="300">|
 

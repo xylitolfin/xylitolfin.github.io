@@ -110,3 +110,74 @@
 ## 4. 기술
 - 유니티 3D를 이용하여 구현할 예정이다.
 
+###게임 오브젝트 분해(구성 요소 분해)
+|연번|오브젝트 이름|오브젝트 이미지|
+|:----:|:----:|:----:|
+|1|플레이어|<img src="./img/축구장.png" width="500">|
+|2|총|<img src="./img/축구장.png" width="500">|
+|3|집게 외계 종족 일반|<img src="./img/축구장.png" width="500">|
+|4|집게 외계 종족 강화|<img src="./img/축구장.png" width="500">|
+|5|외계 돌연변이|<img src="./img/축구장.png" width="500">|
+|6|인간 숙주 돌연변이|<img src="./img/축구장.png" width="500">|
+|7|렙틸리언|<img src="./img/축구장.png" width="500">|
+|8|타이탄알파|<img src="./img/축구장.png" width="500">|
+|9|총알|<img src="./img/축구장.png" width="500">|
+|10|소형 폭탄|<img src="./img/축구장.png" width="500">|
+|11|힐팩|<img src="./img/축구장.png" width="500">|
+|12|모듈식 벽|<img src="./img/축구장.png" width="500">|
+|13|캐릭터|<img src="./img/축구장.png" width="500">|
+|14|캐릭터|<img src="./img/축구장.png" width="500">|
+|15|캐릭터|<img src="./img/축구장.png" width="500">|
+|16|캐릭터|<img src="./img/축구장.png" width="500">|
+|17|캐릭터|<img src="./img/축구장.png" width="500">|
+|18|캐릭터|<img src="./img/축구장.png" width="500">|
+|19|캐릭터|<img src="./img/축구장.png" width="500">|
+|21|캐릭터|<img src="./img/축구장.png" width="500">|
+|22|캐릭터|<img src="./img/축구장.png" width="500">|
+|23|캐릭터|<img src="./img/축구장.png" width="500">|
+|24|캐릭터|<img src="./img/축구장.png" width="500">|
+|25|캐릭터|<img src="./img/축구장.png" width="500">|
+|26|캐릭터|<img src="./img/축구장.png" width="500">|
+|27|캐릭터|<img src="./img/축구장.png" width="500">|
+|28|캐릭터|<img src="./img/축구장.png" width="500">|
+|29|캐릭터|<img src="./img/축구장.png" width="500">|
+|30|캐릭터|<img src="./img/축구장.png" width="500">|
+|31|캐릭터|<img src="./img/축구장.png" width="500">|
+|32|캐릭터|<img src="./img/축구장.png" width="500">|
+|33|캐릭터|<img src="./img/축구장.png" width="500">|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

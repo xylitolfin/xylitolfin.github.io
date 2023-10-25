@@ -615,12 +615,17 @@
 <br>
 
 ## 2. 시간별 흐름도 Flowchart<a name=7-2></a>
-<img src="./img/시간 흐름도.png"><br>
+<img src="./img/시간 흐름도.png">
+
+<br>
 
 ## 3. 키보드 이벤트에 대한 흐름도<a name=7-3></a>
-<img src="./img/키보드 이벤트 흐름도.png"><br>
+<img src="./img/키보드 이벤트 흐름도.png">
+
+<br>
 
 ## 4. 용어 정리<a name=7-4></a>
+<img src="./img/용어정리.png">
 
 <br><br>
 

@@ -616,17 +616,17 @@
 
 <br>
 
-## 2. 시간별 흐름도 Flowchart<a name=시간></a>
+## 2. 시간별 흐름도 Flowchart <a name=시간></a>
 <img src="./img/시간 흐름도.png">
 
 <br>
 
-## 3. 키보드 이벤트에 대한 흐름도<a name=키보드></a>
+## 3. 키보드 이벤트에 대한 흐름도 <a name=키보드></a>
 <img src="./img/키보드 이벤트 흐름도.png">
 
 <br>
 
-## 4. 용어 정리<a name=용어></a>
+## 4. 용어 정리 <a name=용어></a>
 <img src="./img/용어정리.png">
 
 <br><br>

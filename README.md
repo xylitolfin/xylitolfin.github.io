@@ -175,7 +175,7 @@
 |29|플레이어 체력 UI|<img src="./img/hp_UI.png" width="300">|
 |30|전체 총알 개수 UI|<img src="./img/bullet_count_UI.png" width="300">|
 |31|탄창 총알 개수 UI|<img src="./img/loaded_bullet_UI.png" width="300">|
-|32|배터리 개수 UI|battery_count|img/battery_count.png" width="300">|
+|32|배터리 개수 UI|battery_count|img/battery_count_UI.png" width="300">|
 |33|비밀번호 UI|<img src="./img/password_ui.png" width="300">|
 |34|우주선 배터리 잔여략 UI|<img src="./img/battery_check_ui.png" width="300">|
 

@@ -632,6 +632,10 @@
 <br><br>
 
 # [스토리 보드] <a name=8></a>
+<img src="./img/스토리 보드.png">
+
+<br><br>
+
 
 
 

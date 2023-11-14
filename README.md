@@ -1,5 +1,5 @@
 # 프로젝트명 : Undocked(1988037 이휘재)
-
+<img src='./images/box-cox-translation.png' align='right'/>
 # [ 목차 ]
 ### 1. [컨셉](#1)
 ### 2. [관련 이미지와 동영상](#2)

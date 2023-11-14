@@ -1,4 +1,4 @@
-# 프로젝트명 : Undocked(1988037 이휘재) <img src='./images/box-cox-translation.png' align='right'/><br>
+# <img src='./img/favicon.png' width="50" align='left'/> 프로젝트명 : Undocked(1988037 이휘재) 
 
 # [ 목차 ]
 ### 1. [컨셉](#1)

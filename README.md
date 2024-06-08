@@ -148,7 +148,8 @@
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
 |1|플레이어|<img src="./img/player.png" width="300">|
-|2|총|<img src="./img/gun.png" width="300">|
+|2|소총|<img src="./img/gun.png" width="300">|
+|2|에너지 발사기|<img src="./img/energyGun.png" width="300">|
 |3|집게 외계 종족 일반|<img src="./img/alien_crab.png" width="300">|
 |4|집게 외계 종족 강화|<img src="./img/crab_mutant.png" width="300">|
 |5|외계 돌연변이|<img src="./img/alien_mutant.png" width="300">|
@@ -156,6 +157,7 @@
 |7|리자드|<img src="./img/lizard.png" width="300">|
 |8|타이탄알파|<img src="./img/titan_alpha.png" width="300">|
 |9|총알|<img src="./img/bullet.png" width="300">|
+|9|에너지 총알|<img src="./img/energyBullet.png" width="300">|
 |10|소형 폭탄|<img src="./img/wall_bomb.png" width="300">|
 |11|힐팩|<img src="./img/heal_pack.png" width="300">|
 |12|배터리|<img src="./img/battery.png" width="300">|

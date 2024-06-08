@@ -153,7 +153,7 @@
 |4|집게 외계 종족 강화|<img src="./img/crab_mutant.png" width="300">|
 |5|외계 돌연변이|<img src="./img/alien_mutant.png" width="300">|
 |6|감염된 연구원|<img src="./img/slider_mutant.png" width="300">|
-|7|렙틸리언|<img src="./img/reptile.png" width="300">|
+|7|리자드|<img src="./img/lizard.png" width="300">|
 |8|타이탄알파|<img src="./img/titan_alpha.png" width="300">|
 |9|총알|<img src="./img/bullet.png" width="300">|
 |10|소형 폭탄|<img src="./img/wall_bomb.png" width="300">|

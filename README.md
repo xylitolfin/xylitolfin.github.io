@@ -157,32 +157,32 @@
 |7|리자드|<img src="./img/lizard.png" width="300">|
 |8|타이탄알파|<img src="./img/titan_alpha.png" width="300">|
 |9|총알|<img src="./img/bullet.png" width="300">|
-|9|에너지 총알|<img src="./img/energyBullet.png" width="300">|
-|10|소형 폭탄|<img src="./img/wall_bomb.png" width="300">|
-|11|힐팩|<img src="./img/heal_pack.png" width="300">|
-|12|배터리|<img src="./img/battery.png" width="300">|
-|13|모듈식 벽|<img src="./img/wall.png" width="300">|
-|14|모듈식 천장 패널|<img src="./img/ceiling panel.png" width="300">|
-|15|모듈식 통로|<img src="./img/walkway.png" width="300">|
-|16|선반|<img src="./img/shelf.png" width="300">|
-|17|sf 상자|<img src="./img/sf_box.png" width="300">|
-|18|sf 팔레트|<img src="./img/sf_pallet.png" width="300">|
-|19|소화기|<img src="./img/fire_exting.png" width="300">|
-|20|벽 파이프|<img src="./img/pipe_wall.png" width="300">|
-|21|sf 문|<img src="./img/sf_door.png" width="300">|
-|22|우주선|<img src="./img/spaceship.png" width="300">|
-|23|탄약 상자|<img src="./img/ammo_box.png" width="300">|
-|24|부서지는 벽|<img src="./img/breaking_wall.png" width="300">|
-|25|잠겨있는 문|<img src="./img/door_locked.png" width="300">|
-|26|비밀번호 숫자 패드|<img src="./img/keypad.png" width="300">|
-|27|랩탑|<img src="./img/laptop.png" width="300">|
-|28|배터리 디스플레이|<img src="./img/tablet_pc.png" width="300">|
-|29|플레이어 체력 UI|<img src="./img/hp_UI.png" width="300">|
-|30|전체 총알 개수 UI|<img src="./img/bullet_count_UI.png" width="300">|
-|31|탄창 총알 개수 UI|<img src="./img/loaded_bullet_UI.png" width="300">|
-|32|배터리 개수 UI|<img src="./img/Battery_count_UI.png" width="300">|
-|33|비밀번호 UI|<img src="./img/password_ui.png" width="300">|
-|34|우주선 배터리 잔여략 UI|<img src="./img/battery_check_ui.png" width="300">|
+|10|에너지 총알|<img src="./img/energyBullet.png" width="300">|
+|11|소형 폭탄|<img src="./img/wall_bomb.png" width="300">|
+|12|힐팩|<img src="./img/heal_pack.png" width="300">|
+|13|배터리|<img src="./img/battery.png" width="300">|
+|14|모듈식 벽|<img src="./img/wall.png" width="300">|
+|15|모듈식 천장 패널|<img src="./img/ceiling panel.png" width="300">|
+|16|모듈식 통로|<img src="./img/walkway.png" width="300">|
+|17|선반|<img src="./img/shelf.png" width="300">|
+|18|sf 상자|<img src="./img/sf_box.png" width="300">|
+|19|sf 팔레트|<img src="./img/sf_pallet.png" width="300">|
+|20|소화기|<img src="./img/fire_exting.png" width="300">|
+|21|벽 파이프|<img src="./img/pipe_wall.png" width="300">|
+|22|sf 문|<img src="./img/sf_door.png" width="300">|
+|23|우주선|<img src="./img/spaceship.png" width="300">|
+|24|탄약 상자|<img src="./img/ammo_box.png" width="300">|
+|25|부서지는 벽|<img src="./img/breaking_wall.png" width="300">|
+|26|잠겨있는 문|<img src="./img/door_locked.png" width="300">|
+|27|비밀번호 숫자 패드|<img src="./img/keypad.png" width="300">|
+|28|랩탑|<img src="./img/laptop.png" width="300">|
+|29|배터리 디스플레이|<img src="./img/tablet_pc.png" width="300">|
+|30|플레이어 체력 UI|<img src="./img/hp_UI.png" width="300">|
+|31|전체 총알 개수 UI|<img src="./img/bullet_count_UI.png" width="300">|
+|32|탄창 총알 개수 UI|<img src="./img/loaded_bullet_UI.png" width="300">|
+|33|배터리 개수 UI|<img src="./img/Battery_count_UI.png" width="300">|
+|34|비밀번호 UI|<img src="./img/password_ui.png" width="300">|
+|35|우주선 배터리 잔여략 UI|<img src="./img/battery_check_ui.png" width="300">|
 
 <br>
 
@@ -222,7 +222,7 @@
 |공격 사거리|atk_Dis|에너지 발사기의 공격 사거리||
 |공격 범위|atk_Range|에너지 발사기 명중 시 공격 범위||
 
-### 2) 오브젝트 : 집게 외계 종족 일반
+### 3) 오브젝트 : 집게 외계 종족 일반
 
 |속성|영문명칭|설명|비고|
 |:----:|:----:|:----:|:----:|
@@ -233,7 +233,7 @@
 |공격 사거리|ac_attck_dis|집게 외계 종족 일반 오브젝트의 공격 사거리||
 |감지 범위|ac_detect_Range|플레이어를 감지할 수 있는 범위||
 
-### 3) 오브젝트 : 집게 외계 종족 강화
+### 4) 오브젝트 : 집게 외계 종족 강화
 
 |속성|영문명칭|설명|비고|
 |:----:|:----:|:----:|:----:|
@@ -244,7 +244,7 @@
 |공격 사거리|cm_attck_dis|집게 외계 종족 강화 오브젝트의 공격 사거리||
 |감지 범위|cm_detect_Range|플레이어를 감지할 수 있는 범위||
 
-### 4) 오브젝트 : 외계 돌연변이
+### 5) 오브젝트 : 외계 돌연변이
 
 |속성|영문명칭|설명|비고|
 |:----:|:----:|:----:|:----:|
@@ -254,7 +254,7 @@
 |공격력|am_Damage|외계 돌연변이 오브젝트의 공격력||
 |감지 범위|am_detect_Range|플레이어를 감지할 수 있는 범위||
 
-### 5) 오브젝트 : 감염된 연구원
+### 6) 오브젝트 : 감염된 연구원
 
 |속성|영문명칭|설명|비고|
 |:----:|:----:|:----:|:----:|
@@ -264,7 +264,7 @@
 |공격력|inf_Damage|감염된 연구원 오브젝트의 자폭 공격력||
 |자폭 범위|inf_detect_Range|감염된 연구원가 자폭하여 피해를 주는 범위||
 
-### 6) 오브젝트 : 리자드
+### 7) 오브젝트 : 리자드
 
 |속성|영문명칭|설명|비고|
 |:----:|:----:|:----:|:----:|
@@ -275,7 +275,7 @@
 |공격 사거리|liz_attck_dis|리자드 오브젝트의 공격 사거리||
 |감지 범위|liz_detect_Range|플레이어를 감지할 수 있는 범위|| 
 
-### 7) 오브젝트 : 타이탄알파
+### 8) 오브젝트 : 타이탄알파
 
 |속성|영문명칭|설명|비고|
 |:----:|:----:|:----:|:----:|
@@ -286,7 +286,7 @@
 |공격 사거리|ta_attck_dis|타이탄알파 오브젝트의 공격 사거리||
 |감지 범위|ta_detect_Range|플레이어를 감지할 수 있는 범위||
 
-### 8) 오브젝트 : 비밀번호 숫자 패드
+### 9) 오브젝트 : 비밀번호 숫자 패드
 
 |속성|영문명칭|설명|비고|
 |:----:|:----:|:----:|:----:|
@@ -294,7 +294,7 @@
 |입력 비밀번호|input_password|플레이어가 입력한 비밀번호||
 |문|door_Obj|비밀번호 일치 시 열리는 문 오브젝트||
 
-### 9) 오브젝트 : 잠겨있는 문
+### 10) 오브젝트 : 잠겨있는 문
 
 |속성|영문명칭|설명|비고|
 |:----:|:----:|:----:|:----:|
@@ -303,20 +303,20 @@
 |닫힌 상태|isClose|닫혀있는 상태인지 확인한다.||
 |열린 상태|isOpen|열려있는 상태인지 확인한다.||
 
-### 10) 오브젝트 : 부셔지는 벽
+### 11) 오브젝트 : 부셔지는 벽
 
 |속성|영문명칭|설명|비고|
 |:----:|:----:|:----:|:----:|
 |벽 내구도|wallHp|부서지는 벽 오브젝트의 내구도||
 |부서짐 상태|isBreakDown|부서지는 벽 오브젝트가 부셔진 상태인지 확인한다.||
 
-### 10) 오브젝트 : 랩탑
+### 12) 오브젝트 : 랩탑
 
 |속성|영문명칭|설명|비고|
 |:----:|:----:|:----:|:----:|
 |전원 켜짐 상태|isLapON|플레이어가 랩탑 오브젝트 사용 중인지 확인한다.||
 
-### 11) 오브젝트: 우주선 배터리 디스플레이
+### 13) 오브젝트: 우주선 배터리 디스플레이
 
 |속성|영문명칭|설명|비고|
 |:----:|:----:|:----:|:----:|

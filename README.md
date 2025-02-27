@@ -20,8 +20,7 @@
 #### &emsp;&emsp; 7-4. [키보드 이벤트에 대한 흐름도](#키보드)
 #### &emsp;&emsp; 7-5. [용어정리](#영어)
 ### 8. [스토리보드](#8)
-### 9. [플레이 영상](#9)
-[![]URL](https://youtu.be/XDFdNeI1WAM) 
+### [플레이 영상](https://youtu.be/XDFdNeI1WAM) 
 
 <br><br>
 
